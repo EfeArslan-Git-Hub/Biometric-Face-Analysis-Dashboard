@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.venv/
+env/
+
+# Models and Data
+deepface_home/
+imgStorageForOutputs/
+
+# OS specific
+.DS_Store
+Thumbs.db
