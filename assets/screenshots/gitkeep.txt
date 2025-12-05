@@ -1,0 +1,3 @@
+Put your screenshot images here (e.g., dashboard_preview.png).
+Then reference them in the README like this:
+![Dashboard Preview](assets/screenshots/dashboard_preview.png)
